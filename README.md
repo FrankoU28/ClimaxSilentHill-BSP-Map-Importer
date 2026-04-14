@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="./images/climax_sh_logo.png" alt="ClimaxSH_Logo">
+  <img src="./images/climax_sh_logo.png" alt="SHSM_Logo">
   </p>
 
 <h4 align="center"> 
-WORK IN PROGRESS – NOT AVAILABLE YET.
+WORK IN PROGRESS - NOT AVAILABLE YET.
+</h4>
+
+<h4 align="center">
+<a href="README_eng.md">Read in English</a>
 </h4>
 
 <h4 align="center"> 
-Un add-on para Blender que permite importar archivos BSP de Silent Hill: Shattered Memories y Silent Hill: Origins (PS2) con toda la geometría, materiales, texturas, coordenadas UV, y colores de vértices.
+Un add-on para Blender que permite importar archivos BSP de Silent Hill: Shattered Memories y Silent Hill: Origins (PS2) con toda la geometría, materiales, texturas, coordenadas UV, colores de vértices y normales.
   </h4>
 
 ## Características
@@ -53,7 +57,7 @@ your_map_folder/
 └── ...
 ```
 
-**Nota:** El complemento soporta tanto extensión `.bsp` como `.shsm_bsp`, ya que lo hice compatible por algo que hice con mi Plugin de Noesis para SHSM.
+**Nota:** El complemento soporta tanto extensión `.bsp` como `.shsm_bsp`. Si tienes conflictos con otros plugins, puedes renombrar a `.shsm_bsp`.
 
 ### Importar
 
@@ -74,4 +78,3 @@ Este proyecto es comunitario y está disponible para uso personal y educativo.
 ---
 
 ¿Problemas? Reporta en la sección de issues.
-
