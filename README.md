@@ -11,7 +11,7 @@ WORK IN PROGRESS - NOT AVAILABLE YET.
 </h4>
 
 <h4 align="center"> 
-Un add-on para Blender que permite importar archivos BSP de Silent Hill: Shattered Memories y Silent Hill: Origins (PS2/Wii) con toda la geometría, materiales, texturas, coordenadas UV, colores de vértices y normales.
+Un add-on para Blender que permite importar archivos BSP de Silent Hill: Shattered Memories (PS2/Wii) y Silent Hill: Origins (PSP/PS2/Prototypes) con toda la geometría, materiales, texturas, coordenadas UV, colores de vértices y normales.
   </h4>
 
 ## Características
@@ -69,7 +69,7 @@ your_map_folder/
 ### Juegos y sus versiones soportadas (Por ahora)
 
 - **Silent Hill: Shattered Memories** (PS2/Wii)
-- **Silent Hill: Origins** (PS2)
+- **Silent Hill: Origins** (PSP/PS2/Prototypes)
 
 ## Licencia
 
